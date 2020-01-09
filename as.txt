@@ -1,4 +1,10 @@
 
 Hello World
+<<<<<<< HEAD
 I am Ananya sharma.
 i am persuing M.tech in GIS application
+=======
+My name is Medha Pathak.
+My name is Soumik Chakraborty.
+>>>>>>> d52243211b4282fb26e508349fd276f71ae8bca3
+i am ananya sharma.
